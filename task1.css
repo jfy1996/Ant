@@ -1,0 +1,14 @@
+.box1
+ {
+     margin: 0;
+     padding: 0;
+ }
+.box2
+{
+    background-color:yellow;
+    width:31.3%;
+    padding-top: 31.3%;
+    margin: 1%;
+    border-radius:20px;/*给方块加圆角*/
+    float:right;
+}
